@@ -1,0 +1,3 @@
+termcolor
+python-dotenv
+pfruck-contabo
